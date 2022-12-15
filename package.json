@@ -93,7 +93,7 @@
     "cookie-parser": "^1.4.5",
     "dotenv": "^8.2.0",
     "etcd3": "^1.0.1",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-session": "^1.17.1",
     "express-useragent": "^1.0.15",
     "fastify-swagger": "^3.2.0",
