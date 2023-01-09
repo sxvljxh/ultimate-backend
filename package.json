@@ -115,7 +115,7 @@
     "js-base64": "^3.4.4",
     "json-stable-stringify": "^1.0.1",
     "lodash": "^4.17.19",
-    "luxon": "^1.24.1",
+    "luxon": "^1.28.1",
     "mongodb": "^3.6.0",
     "mqtt": "^4.1.0",
     "nats": "^1.4.12",
